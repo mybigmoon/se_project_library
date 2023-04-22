@@ -265,7 +265,7 @@
   color: white;
 }
 
-.staff__card__content {
+.staff__card_content {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
