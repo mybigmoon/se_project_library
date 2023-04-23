@@ -436,6 +436,7 @@
 .footer__logo {
   width: 116px;
   height: 21px;
+  margin-bottom: 80px;
 }
 
 .footer__list {
@@ -470,5 +471,5 @@
 .footer__copyright {
   color: #c1c1c1;
   position: relative;
-  top: 108px;
+  top: 80px;
 }
