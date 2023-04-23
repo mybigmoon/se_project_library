@@ -408,6 +408,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #000000;
+  overflow: hidden;
 }
 
 .footer__columns {
