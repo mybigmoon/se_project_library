@@ -2,7 +2,7 @@
   margin: 0 auto;
   min-width: 1100px;
   max-width: 1600px;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 20px;
 }
@@ -50,7 +50,6 @@
   font-size: 66px;
   line-height: 76px;
   font-weight: 500;
-  margin: 150px 0 0;
 }
 
 .header__description {
@@ -191,7 +190,6 @@
 .person_name_feynman {
   top: -30px;
   left: 319px;
-  display: flex;
   align-items: center;
   flex-direction: column;
   gap: 10px;
@@ -390,7 +388,8 @@
 }
 
 .about__paragraph {
-  gap: 32px;
+  margin: 0;
+  margin-bottom: 32px;
 }
 
 .about__circle {
@@ -407,7 +406,7 @@
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
-  overflow: hidden;
+  padding: 60px 0;
 }
 
 .footer__columns {
@@ -435,7 +434,7 @@
 .footer__logo {
   width: 116px;
   height: 21px;
-  margin-bottom: 80px;
+  margin-bottom: 108px;
 }
 
 .footer__list {
@@ -453,6 +452,7 @@
   color: white;
   font-size: 16px;
   line-height: 20px;
+  margin: 0;
 }
 
 .footer__column-link {
@@ -474,7 +474,5 @@
 .footer__copyright {
   color: #ffffff;
   margin: auto;
-  position: relative;
-  bottom: 60px;
-  left: 80px;
+  padding-left: 80px;
 }
