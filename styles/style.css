@@ -410,7 +410,6 @@
 }
 
 .footer__columns {
-  padding-top: 60px;
   padding-right: 102px;
   padding-left: 80px;
   min-height: 224px;
@@ -445,6 +444,7 @@
 
 .footer__list-item {
   color: #ffffff;
+  margin-top: 20px;
   margin-bottom: 16px;
 }
 
@@ -452,7 +452,7 @@
   color: white;
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 16px;
+  margin: 0;
 }
 
 .footer__column-link {
