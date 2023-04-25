@@ -187,27 +187,27 @@
   gap: 10px;
 }
 
-.person__name_feynman {
+.person_name_feynman {
   top: -30px;
   left: 319px;
 }
 
-.person__name_burbidge {
+.person_name_burbidge {
   top: 96px;
   right: 125px;
 }
 
-.person__name_cannon {
+.person_name_cannon {
   right: 216px;
   bottom: 18px;
 }
 
-.person__name_mitchell {
+.person_name_mitchell {
   left: 142px;
   bottom: 82px;
 }
 
-.person__name_tarter {
+.person_name_tarter {
   top: 79px;
   left: 159px;
 }
